@@ -1,8 +1,8 @@
-# recipe_app
-#CRAVING AND CALORIES
+# XRAVING AND CALORIES
 A new Flutter project.
 This is user interative application that provides you with food suggestions 
-and recommends you with the best dish you can make
+and recommends you with the best dish you can make.
+
 
 
 ## Getting Started
