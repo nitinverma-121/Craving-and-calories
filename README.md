@@ -1,6 +1,6 @@
 # CRAVING AND CALORIES
 A new Flutter app/project.
-This is user interative application that provides you with food suggestions 
+This is user interactive application that provides you with food suggestions 
 and recommends you with the best dish you can make.
 
 ![WhatsApp Image 2021-05-15 at 2 51 23 AM](https://user-images.githubusercontent.com/82975890/118333742-dfebef00-b529-11eb-8da3-654ff88342c8.jpeg)
