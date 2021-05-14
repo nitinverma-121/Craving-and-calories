@@ -1,5 +1,5 @@
-# XRAVING AND CALORIES
-A new Flutter project.
+# CRAVING AND CALORIES
+A new Flutter app/project.
 This is user interative application that provides you with food suggestions 
 and recommends you with the best dish you can make.
 
