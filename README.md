@@ -3,8 +3,6 @@ A new Flutter app/project.
 This is user interative application that provides you with food suggestions 
 and recommends you with the best dish you can make.
 
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
